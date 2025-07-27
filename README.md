@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaganaMuthyalu
 - 👀 I’m looking forward to explore and learn as much as possible from this platform
-- 🌱 I’m currently studying Electronics and communication engineering 
+- 🌱 I’m an AI Engineer 
 - 📫 How to reach me - gagmuthyalu@gmail.com
 
 <!---
